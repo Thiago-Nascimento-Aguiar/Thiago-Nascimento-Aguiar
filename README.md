@@ -1,6 +1,6 @@
 # Thiago-Nascimento-Aguiar
 
-Sou estudante do curso de Sistemas da Informação, na Femass. Procuro aprimorar meus conhecimentos adquiridos na faculdade por meio de contribuições por aqui.
+Sou estudante do curso de Sistemas de Informação, na Femass. Procuro aprimorar meus conhecimentos adquiridos na faculdade por meio de contribuições por aqui.
 
 ## Conecte-se comigo
 
